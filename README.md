@@ -1,0 +1,2 @@
+# JavaScriptPrep
+JavaScript practice codes
